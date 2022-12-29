@@ -6,7 +6,7 @@
 
 ![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/signalk)
 
-AutoDevOps2
+gitlab resurrection
 
 An implementation of a [Signal K](http://signalk.org) server in Node.js. Intended to run on embedded devices (e.g. Raspberry Pi, Beaglebone or UDOO).
 
